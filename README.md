@@ -21,3 +21,5 @@ Users find your business through paid and organic searches, increasing the searc
 ### Cost Management
 As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.
 
+- - -
+© 2019 Horiseon Social Solution Services, Inc.
