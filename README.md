@@ -36,7 +36,7 @@ A marketing agency that provides a multitude of options that will help promote a
 > https://kashay1990.github.io/horiseon/ 
 
 ---
-![Horiseon Screenshot](../assets/images/screen-shot.png "Screenshot")
+![Horiseon Screenshot](/assets/images/screen-shot.png "Screenshot")
 
 ---
 
