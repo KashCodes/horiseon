@@ -29,13 +29,17 @@ A marketing agency that provides a multitude of options that will help promote a
 > As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.
 
 ---
+
 ### Github Repository
+
 > https://github.com/Kashay1990/horiseon
 
-### Github Live Site 
-> https://kashay1990.github.io/horiseon/ 
+### Github Live Site
+
+> https://kashay1990.github.io/horiseon/
 
 ---
+
 ![Horiseon Screenshot](assets/images/screen-shot.PNG "Screenshot")
 
 ---
