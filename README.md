@@ -32,11 +32,11 @@ A marketing agency that provides a multitude of options that will help promote a
 
 ### Github Repository
 
-> https://github.com/Kashay1990/horiseon
+> https://github.com/KashCodes/horiseon
 
 ### Github Live Site
 
-> https://kashay1990.github.io/horiseon/
+> https://kashcodes.github.io/horiseon/
 
 ---
 
